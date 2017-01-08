@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		550AF7BA1E22251600FB9E05 /* upload.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 550AF7B91E22251600FB9E05 /* upload.PNG */; };
+		550AF7BC1E22252000FB9E05 /* userList.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 550AF7BB1E22252000FB9E05 /* userList.PNG */; };
+		550AF7BE1E22253000FB9E05 /* images.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 550AF7BD1E22253000FB9E05 /* images.PNG */; };
+		550AF7C01E22255600FB9E05 /* login.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 550AF7BF1E22255600FB9E05 /* login.PNG */; };
 		5558DF291C577E43004083A8 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5558DF281C577E43004083A8 /* TableViewController.swift */; };
 		5558DF2B1C57A36D004083A8 /* placeholder.png in Resources */ = {isa = PBXBuildFile; fileRef = 5558DF2A1C57A36D004083A8 /* placeholder.png */; };
 		5558DF2D1C57A5D7004083A8 /* postImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5558DF2C1C57A5D7004083A8 /* postImageViewController.swift */; };
@@ -25,6 +29,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		550AF7B91E22251600FB9E05 /* upload.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = upload.PNG; sourceTree = "<group>"; };
+		550AF7BB1E22252000FB9E05 /* userList.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = userList.PNG; sourceTree = "<group>"; };
+		550AF7BD1E22253000FB9E05 /* images.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = images.PNG; sourceTree = "<group>"; };
+		550AF7BF1E22255600FB9E05 /* login.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = login.PNG; sourceTree = "<group>"; };
 		5558DF281C577E43004083A8 /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		5558DF2A1C57A36D004083A8 /* placeholder.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = placeholder.png; sourceTree = "<group>"; };
 		5558DF2C1C57A5D7004083A8 /* postImageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = postImageViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +71,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		550AF7B81E22250600FB9E05 /* Screeshots */ = {
+			isa = PBXGroup;
+			children = (
+				550AF7B91E22251600FB9E05 /* upload.PNG */,
+				550AF7BB1E22252000FB9E05 /* userList.PNG */,
+				550AF7BD1E22253000FB9E05 /* images.PNG */,
+				550AF7BF1E22255600FB9E05 /* login.PNG */,
+			);
+			name = Screeshots;
+			sourceTree = "<group>";
+		};
 		814C3AC51B69877600E307BB /* Resources */ = {
 			isa = PBXGroup;
 			children = (
@@ -101,6 +120,7 @@
 				5558DF2C1C57A5D7004083A8 /* postImageViewController.swift */,
 				5558DF2E1C57B6C3004083A8 /* cell.swift */,
 				5558DF301C57B819004083A8 /* FeedTableViewController.swift */,
+				550AF7B81E22250600FB9E05 /* Screeshots */,
 			);
 			path = ParseStarterProject;
 			sourceTree = "<group>";
@@ -187,6 +207,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				550AF7BA1E22251600FB9E05 /* upload.PNG in Resources */,
+				550AF7BC1E22252000FB9E05 /* userList.PNG in Resources */,
+				550AF7C01E22255600FB9E05 /* login.PNG in Resources */,
+				550AF7BE1E22253000FB9E05 /* images.PNG in Resources */,
 				814C3ACA1B69877600E307BB /* Main.storyboard in Resources */,
 				5558DF2B1C57A36D004083A8 /* placeholder.png in Resources */,
 				814C3ACB1B69877600E307BB /* Images.xcassets in Resources */,

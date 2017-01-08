@@ -1,6 +1,6 @@
 # Instagram-Clone
 This is a clone of the popular image sharing app Instagram. It features a login system powered by Parse.
-Users can follow others, view their posts and upload their own images.
+Users can follow others, view their posts and upload their own images. (Made for learning purposes)
 
 ### Features
 ##1. Login System using Parse
